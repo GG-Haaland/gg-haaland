@@ -1,5 +1,5 @@
 <!-- <div id="header" align="center"> -->
-  <img src="https://media.giphy.com/media/8L0Pky6C83SzkzU55a/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?response_id=59245c7c1f1da9f614a280d5" width="300"/>
 <!-- </div> -->
 
 
@@ -10,23 +10,23 @@ As a full-stack software engineer, I build creative, interactive, and delightful
   
 <br>
 
-[![My LinkedIn profile](https://img.shields.io/badge/-GJ%20Haaland-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/gg-haalandi/)
-[![My Gamil](https://img.shields.io/badge/-GJ%20Haaland-BB001B?style=for-the-badge&logo=Gmail&logoColor=FFFFFF)](mailto:sysjackie@gmail.com)
-[![My Instagram](https://img.shields.io/badge/-GJ%20Haaland-833AB4?style=for-the-badge&logo=Instagram&logoColor=FFFFFF)](https://www.instagram.com/jackeeeeshi/)
-[![My Website](https://img.shields.io/badge/-Yusong.%20Space-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=FFFFFF)](https://yusong.space)
-[![My Github](https://img.shields.io/badge/-Yusong.%20Shi-181717?style=for-the-badge&logo=Github&logoColor=FFFFFF)](https://github.com/gg-haaland)
+[![My LinkedIn profile](https://img.shields.io/badge/-GJ%20Haaland-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/gg-haaland/)
+[![My Gamil](https://img.shields.io/badge/-GJ%20Haaland-BB001B?style=for-the-badge&logo=Gmail&logoColor=FFFFFF)](mailto:haaland.gj@gmail.com)
+[![My Instagram](https://img.shields.io/badge/-GJ%20Haaland-833AB4?style=for-the-badge&logo=Instagram&logoColor=FFFFFF)](https://www.instagram.com/gee_eej/)
+[![My Website](https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=FFFFFF)](https://gjhaaland-portfolio.surge.sh/)
+[![My Github](https://img.shields.io/badge/-GJ.%20Haaland-181717?style=for-the-badge&logo=Github&logoColor=FFFFFF)](https://github.com/gg-haaland)
 
 ---
 
 #### Skills and Experience 👨‍💻
 
-- 🔭 I’m currently working on building my Portfolio
-- 🌱 I’m currently learning Python and Django
-- 👯 I’m looking to collaborate with UX designers 
+- 🔭 I’m currently working on new projects
+- 🌱 I’m currently learning Python and Django and strengthening my react skills
+<!-- - 👯 I’m looking to collaborate with UX designers  -->
 - 🤔 I’m looking for help with Redux
-- 💬 Ask me about UI/UX Design, Photography, Food, NBA...
+<!-- - 💬 Ask me about UI/UX Design, Photography, Food, NBA... -->
 - 📫 How to reach me: Check the links above
-- ⚡ Fun fact: Let me think abou it...
+- ⚡ Fun fact: I know a lot of random facts...
 
 <br>
 

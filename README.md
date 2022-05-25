@@ -9,7 +9,7 @@
 Creative-minded, solution-driven software developer with a passion for intuitive design and problem-solving. Coming from my previous industry as a restaurant General Manager I have the unique ability to think on my feet and solve complex and challenging problems quickly and efficiently.  
 <br>
 
-[![My LinkedIn profile](https://img.shields.io/badge/-GJ%20Haaland-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/gg-haaland/)
+[![My LinkedIn profile](https://img.shields.io/badge/-GJ%20Haaland-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/gj-haaland/)
 [![My Gamil](https://img.shields.io/badge/-GJ%20Haaland-BB001B?style=for-the-badge&logo=Gmail&logoColor=FFFFFF)](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=:haaland.gj@gmail.com)
 [![My Instagram](https://img.shields.io/badge/-GJ%20Haaland-833AB4?style=for-the-badge&logo=Instagram&logoColor=FFFFFF)](https://www.instagram.com/gee_eej/)
 [![My Website](https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=FFFFFF)](https://gjhaaland-portfolio.surge.sh/)
@@ -21,9 +21,7 @@ Creative-minded, solution-driven software developer with a passion for intuitive
 
 - 🔭 I’m currently working on new projects
 - 🌱 I’m currently learning Python and Django and strengthening my react skills
-<!-- - 👯 I’m looking to collaborate with UX designers  -->
 - 🤔 I’m looking for help with Redux
-<!-- - 💬 Ask me about UI/UX Design, Photography, Food, NBA... -->
 - 📫 How to reach me: Check the links above
 - ⚡ Fun fact: I know a lot of random facts...
 
@@ -32,9 +30,9 @@ Creative-minded, solution-driven software developer with a passion for intuitive
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gg-haaland&layout=compact&theme=ayu-mirage)](https://github.com/gg-haaland/github-readme-stats)
 
-![Yusong's GitHub stats](https://github-readme-stats.vercel.app/api?username=gg-haaland&show_icons=true&theme=ayu-mirage)
+![GJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=gg-haaland&show_icons=true&theme=ayu-mirage)
 
-![Yusong's GitHub Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=gg-haaland&theme=ayu-mirage)
+![GJ's GitHub Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=gg-haaland&theme=ayu-mirage)
 
 
 #### Regularly using... 🧰
@@ -66,11 +64,6 @@ Creative-minded, solution-driven software developer with a passion for intuitive
 [![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=FFFFFF)](https://www.netlify.com)
 [![Adobe](https://img.shields.io/badge/-adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=FFFFFF)](https://www.adobe.com)
 [![AdobeXD](https://img.shields.io/badge/-Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=FFFFFF)](https://www.adobe.com)
-[![Photoshop](https://img.shields.io/badge/-adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=FFFFFF)](https://www.adobe.com)
-[![Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=FFFFFF)](https://www.adobe.com)
-[![Figma](https://img.shields.io/badge/-figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=FFFFFF)](https://www.figma.com)
-[![Dribbble](https://img.shields.io/badge/-Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=FFFFFF)](https://www.dribbble.com)
-[![Behance](https://img.shields.io/badge/-Behance-1769ff?style=for-the-badge&logo=behance&logoColor=FFFFFF)](https://www.behance.com)
 
 
 

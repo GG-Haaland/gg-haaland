@@ -6,12 +6,11 @@
  
 ### Hi there 👋 , I am **GJ Haaland** 
 
-As a full-stack software engineer, I build creative, interactive, and delightful web applications that solve practical, real-world problems. With a background in product design, I approach each web application through the lens of the user, always striving for solutions that improve efficiency for all.
-  
+Creative-minded, solution-driven software developer with a passion for intuitive design and problem-solving. Coming from my previous industry as a restaurant General Manager I have the unique ability to think on my feet and solve complex and challenging problems quickly and efficiently.  
 <br>
 
 [![My LinkedIn profile](https://img.shields.io/badge/-GJ%20Haaland-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/gg-haaland/)
-[![My Gamil](https://img.shields.io/badge/-GJ%20Haaland-BB001B?style=for-the-badge&logo=Gmail&logoColor=FFFFFF)](mailto:haaland.gj@gmail.com)
+[![My Gamil](https://img.shields.io/badge/-GJ%20Haaland-BB001B?style=for-the-badge&logo=Gmail&logoColor=FFFFFF)](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=:haaland.gj@gmail.com)
 [![My Instagram](https://img.shields.io/badge/-GJ%20Haaland-833AB4?style=for-the-badge&logo=Instagram&logoColor=FFFFFF)](https://www.instagram.com/gee_eej/)
 [![My Website](https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=FFFFFF)](https://gjhaaland-portfolio.surge.sh/)
 [![My Github](https://img.shields.io/badge/-GJ.%20Haaland-181717?style=for-the-badge&logo=Github&logoColor=FFFFFF)](https://github.com/gg-haaland)
